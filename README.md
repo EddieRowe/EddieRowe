@@ -1,3 +1,4 @@
+## 👤 Profile
 Hey! 👋
 
 C# & .NET enjoyer, branching out to try new languages & frameworks.
