@@ -4,7 +4,12 @@ C# & .NET enjoyer, branching out to try new languages & frameworks.
 
 I also enjoy dabbling in game dev in my spare time.
 
-# 💻 Tech Stack:
+## 📂 Projects
+- Bench finding website - [find-a-bench.com](https://find-a-bench.com) | [Repo](https://github.com/EddieRowe/find-a-bench)
+- [COVID-19 Data Graphing and Mapping Repo](https://github.com/EddieRowe/covid19-uk-graphing)
+- [VR Glove Project](https://eddierowe.com/2017/04/25/VR-Glove.html)
+
+## 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/-C%23-512BD4?logo=csharp&style=for-the-badge)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&style=for-the-badge)
 ![Blazor](https://img.shields.io/badge/-Blazor-512BD4?logo=blazor&logoColor=white&style=for-the-badge)
