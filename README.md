@@ -8,7 +8,7 @@ I also enjoy dabbling in game dev in my spare time.
 ## 📂 Projects
 - Bench finding website - [find-a-bench.com](https://find-a-bench.com) | [Repo](https://github.com/EddieRowe/find-a-bench)
 - Custom COVID dashboard - [COVID-19 Data Graphing and Mapping](https://github.com/EddieRowe/covid19-uk-graphing)
-- Custom game controller - [VR Glove Project](https://eddierowe.com/2017/04/25/VR-Glove.html)
+- Custom game controller - [VR Glove Project](http://eddierowe.com/assets/cv/vr%20glove.mp4)
 
 ## 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/-C%23-512BD4?logo=csharp&style=for-the-badge)
