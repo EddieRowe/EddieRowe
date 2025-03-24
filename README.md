@@ -6,6 +6,7 @@ C# & .NET enjoyer, branching out to try new languages & frameworks.
 I also enjoy dabbling in game dev in my spare time.
 
 ## 📂 Projects
+- My Game Development Portfolio - [eddierowe.com](https://eddierowe.com/)
 - Bench finding website - [find-a-bench.com](https://find-a-bench.com) | [Repo](https://github.com/EddieRowe/find-a-bench)
 - Custom COVID dashboard - [COVID-19 Data Graphing and Mapping](https://github.com/EddieRowe/covid19-uk-graphing)
 - Custom game controller - [VR Glove Project](http://eddierowe.com/assets/cv/vr%20glove.mp4)
